@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)]
+[![MasterHead](https://gifimage.net/wp-content/uploads/2017/10/marketing-gif-9.gif)]
 <h1 align="center">Hi 👋, I'm Diya Goyal</h1>
 <h3 align="center">A good listener and always ready to learn new things😁</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
