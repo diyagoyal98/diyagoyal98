@@ -12,8 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diya-goyal-1609a41b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diya-goyal-1609a41b8/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/diyag801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/diyag801" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/diya_goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/diya_goyal/" height="30" width="40" /></a>
 <a href="https://medium.com/@diyag899/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@diyag899/" height="30" width="40" /></a>
 </p>
 
