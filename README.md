@@ -22,7 +22,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyagoyal98&show_icons=true&locale=en" alt="diyagoyal98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyagoyal98&" alt="diyagoyal98" /></p>
+
+<br/>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=diyagoyal98" src="https://git.io/streak-stats"></p>
 
 <br/>
 <a href="https://github.com/diyagoyal98/github-readme-activity-graph"><img alt="Diya Goyal Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=diyagoyal98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
