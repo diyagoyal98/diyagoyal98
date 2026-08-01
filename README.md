@@ -1,4 +1,5 @@
-<img width="1080" height="765" alt="giff" src="https://github.com/user-attachments/assets/05acc4c5-d6b4-40f4-86b4-9bfeacb2980b" />
+<img width="1080" height="765" alt="gif2" src="https://github.com/user-attachments/assets/3a889a81-fed4-475e-bf85-d660a145546f" />
+
 
 <h1 align="center">Hi 👋, I'm Diya Goyal</h1>
 <h3 align="center">A good listener and always ready to learn new things😁</h3>
