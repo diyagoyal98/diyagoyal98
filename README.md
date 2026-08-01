@@ -12,6 +12,13 @@ I’m exploring new areas I haven’t worked on before.<br>Looking to collaborat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-goyal-1609a41b8) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@diyag899) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyag899@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Diya_Goyal)
+
+📈 **My most liked GFG articles:**
+
+- [How to Push Anything to GitHub Using Git Bash](https://www.geeksforgeeks.org/git/how-to-push-anything-to-github-using-git-bash/)
+- [Smart Parking System Using Arduino](https://www.geeksforgeeks.org/electronics-engineering/smart-parking-system-using-arduino/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=diyagoyal98&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=diyagoyal98&theme=dark&hide_border=true)<br/>
